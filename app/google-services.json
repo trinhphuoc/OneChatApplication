@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "918748341649",
+    "firebase_url": "https://onechatapplications.firebaseio.com",
+    "project_id": "onechatapplications",
+    "storage_bucket": "onechatapplications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918748341649:android:b631f2dab27c4f88",
+        "android_client_info": {
+          "package_name": "com.example.dinhtrinhphuoc.onechatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918748341649-8r5q8mr0ti0dnnlqbocdqt52cjlucl0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dinhtrinhphuoc.onechatapplication",
+            "certificate_hash": "6551ACBC782A6B3C634207654593538EAA4CD1C3"
+          }
+        },
+        {
+          "client_id": "918748341649-633lbl0qrak7l7a5i9u01akbdflct4fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPpk56ylFJyAYhyyCA2SlY_L-e58iKj5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918748341649-633lbl0qrak7l7a5i9u01akbdflct4fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
